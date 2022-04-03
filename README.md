@@ -36,7 +36,7 @@ Ganti session lu di `'./RadBotZ.json'`
 Edit Nomor Owner DLL `'./config.js'`
 ```ts 
 OwnerNumber = ['wa.me/6285230412839']
-GithubOwner = ['-']
+GithubOwner = ['https://github.com/irulLz/GWEHJ']
 Grub Owner  = ['https://chat.whatsapp.com/GwcM3IyjbxX8CFSP9c6HGS']
 Apikey? = Apikey kalian, tidak paham? chat saya di wangsaf!
 
