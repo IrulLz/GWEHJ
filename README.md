@@ -56,7 +56,7 @@ global.kolam = 'https://telegra.ph/file/5aa5dfa3394477e11fb18.jpg'
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/AhmadBOTV3z/AHMADBOT
+git clone https://github.com/irulLz/GWEHJ
 cd Rulz Botz
 npm install
 npm update
