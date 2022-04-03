@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://Lexxy24.github.io"> <img src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+Ahmad+Aowkwowkwkwkwk" alt="Lexxy Official" /> </a> </p>
 <p align="center">
-<a href="#"><img title="Ahmad BOT" src="https://img.shields.io/badge/GANTI SESSIONNYA DULU SEBELUM PAKAI-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Rulz Botz" src="https://img.shields.io/badge/GANTI SESSIONNYA DULU SEBELUM PAKAI-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 </p> 
@@ -35,9 +35,9 @@ Ganti session lu di `'./RadBotZ.json'`
 ## settings 
 Edit Nomor Owner DLL `'./config.js'`
 ```ts 
-OwnerNumber = ['wa.me/6281250521455']
-GithubOwner = ['https://github.com/AhmadBOTV3z']
-GroupOwner = ['https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD']
+OwnerNumber = ['wa.me/6285230412839']
+GithubOwner = ['-']
+Grub Owner  = ['https://chat.whatsapp.com/GwcM3IyjbxX8CFSP9c6HGS']
 Apikey? = Apikey kalian, tidak paham? chat saya di wangsaf!
 
 Thumbnail
@@ -57,7 +57,7 @@ global.kolam = 'https://telegra.ph/file/5aa5dfa3394477e11fb18.jpg'
 
 ```bash
 git clone https://github.com/AhmadBOTV3z/AHMADBOT
-cd AHMADBOT
+cd Rulz Botz
 npm install
 npm update
 ```
@@ -73,5 +73,5 @@ node .
 ---------
 
 # My Sosial 
-- [Group ](https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD) 
-- [Whatsapp ](https://wa.me/6281250521455)
+- [Group ](https://chat.whatsapp.com/GwcM3IyjbxX8CFSP9c6HGS) 
+- [Whatsapp ](https://wa.me/6285230412839)
