@@ -17,4 +17,4 @@ for (let file of files) {
   })
   .stderr.on('data', chunk => assert.ok(chunk.length < 1, file + '\n\n' + chunk))
 }
-Delete .doi {name:'dewihana'} .number {+62 878-1182-0153}
+
